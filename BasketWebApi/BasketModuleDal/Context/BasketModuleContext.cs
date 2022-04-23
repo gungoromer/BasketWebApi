@@ -14,7 +14,7 @@ namespace BasketModuleDal.Context
         public BasketModuleContext(DbContextOptions<BasketModuleContext> options)
             : base(options)
         {
-        }
+        }        
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

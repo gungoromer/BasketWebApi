@@ -14,3 +14,6 @@
 /BasketWebApi/BasketWebApi/bin/Debug/net5.0
 /BasketWebApi/BasketWebApi/logs
 /BasketWebApi/BasketWebApi/obj
+/BasketWebApi/.vs/BasketWebApi/DesignTimeBuild
+/BasketWebApi/XUnitTests/bin/Debug/net5.0
+/BasketWebApi/XUnitTests/obj
