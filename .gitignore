@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs
+/BasketWebApi/.vs/BasketWebApi/v17
+/BasketWebApi/BasketEntities/bin/Debug/net5.0
+/BasketWebApi/BasketEntities/obj
+/BasketWebApi/BasketModuleBll/bin/Debug/net5.0
+/BasketWebApi/BasketModuleBll/obj
+/BasketWebApi/BasketModuleDal/bin/Debug/net5.0
+/BasketWebApi/BasketModuleDal/obj
+/BasketWebApi/BasketWebApi/.vs/BasketWebApi
+/BasketWebApi/BasketWebApi/bin/Debug/net5.0
+/BasketWebApi/BasketWebApi/logs
+/BasketWebApi/BasketWebApi/obj
